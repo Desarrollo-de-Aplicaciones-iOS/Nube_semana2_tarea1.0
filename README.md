@@ -14,11 +14,11 @@ Para ello deberás crear una interfaz de usuario, usando la herramienta Storyboa
 
 4. En la vista deberás poner elementos para mostrar:
 
-El título del libro
-Los autores (recuerda que está en plural, pueden ser varios)
-La portada del libro (en caso de que exista)
-Un ejemplo de URL para acceder a un libro es:
+- El título del libro
+- Los autores (recuerda que está en plural, pueden ser varios)
+- La portada del libro (en caso de que exista)
 
+Un ejemplo de URL para acceder a un libro es:
 https://openlibrary.org/api/books?jscmd=data&format=json&bibkeys=ISBN:978-84-376-0494-7
 
 Su programa deberá sustituir el último código de la URL anterior (en este caso 978-84-376-0494-7) por lo que se ponga en la caja de texto
