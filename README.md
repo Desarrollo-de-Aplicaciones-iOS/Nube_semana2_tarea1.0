@@ -1,6 +1,6 @@
 # Nube_semana2_tarea1.0
 
-nstrucciones
+Instrucciones
 
 En este entregable desarrollarás una aplicación usando Xcode que después de haber realizado una petición a https://openlibrary.org/ (entregable anterior) analice os datos JSON obtenidos y los presente de manera adecuada
 
